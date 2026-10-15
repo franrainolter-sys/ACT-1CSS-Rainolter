@@ -1,12 +1,10 @@
 
- p { color: blue
-     font-family: Verdana; }
+ p { color: blue;
+     font-family: Verdana }
  .importante { background-color: yellow; font-weight: 800; }
 .especial { border: 3px solid green; padding:
 10px; }
-/* 4. Establece un margen exterior de 10 píxeles y un margen interior de 5 píxeles para
-todos los elementos de la página. */
-{ COMPLETAR: COMPLETAR; COMPLETAR: COMPLETAR; }
+*{margin: 10px; padding: 5px; }
 h1, h2 { color: red; text-align:
 center; }
 p.importante { color: #BC00FF; }
